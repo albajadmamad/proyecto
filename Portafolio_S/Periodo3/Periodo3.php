@@ -39,8 +39,9 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-8">
                     <button type="button" onclick="window.location.href = 'from.php';" class="btn btn-primary">Fronted</button><br><br><br>
-                <button type="button" onclick="window.location.href = 'arreglos.php';" class="btn btn-primary">Arreglos</button>
-                    </div>
+                <button type="button" onclick="window.location.href = 'arreglos.php';" class="btn btn-primary">Arreglos</button><br><br><br>
+                    <button type="button" onclick="window.location.href = 'quiz.php';" class="btn btn-primary">Quiz</button> 
+                    <div>
                 </div>
             </div>
         </section>
